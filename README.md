@@ -1,2 +1,2 @@
 # Natural-Language-Processing----Text-and-Keyword-Association-Analysis
-This project aims at pipelining by comparing keywords/texts and getting the similar matrix along with visualizations. It processed a large scale of text files , filtered out irrelavant stopwords and keep financial terms at the same time, and apply a few common NLP techniques like utilizing TF-IDF matrix and Nonnegative Matrix Factorization (NMF).
+This project aims at pipelining of comparing keywords/texts and getting the similar matrix along with visualizations. It processed a large scale of text files , filtered out irrelavant stopwords and keep financial terms at the same time, and apply a few common NLP techniques like utilizing TF-IDF matrix and Nonnegative Matrix Factorization (NMF).
